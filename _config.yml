@@ -9,11 +9,11 @@ owner:
   name: Gene Melton
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #hgmelton@ncsu.edu
+  email: hgmelton@ncsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #genemelton
+  github: genemelton
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
